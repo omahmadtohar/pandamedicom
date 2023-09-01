@@ -1,0 +1,10 @@
+/* Tambahkan ke dalam file CSS Anda */
+.alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    z-index: 999;
+}
